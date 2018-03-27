@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "AJ-APP",
+  "name": "AJ-APP",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:144/vlrb0jXNSMKvhei0MSnH",
       "sizes": "144x144",
       "type": "image/png"
     }
